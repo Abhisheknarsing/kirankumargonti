@@ -15,11 +15,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated in Computer Science and Engineering at Guru Nanak Institute of Technology, Hyderabad.
-- 🔭 &nbsp;  I’m currently looking for job ...
+- 🔭 &nbsp; I’m currently looking for Job
 - 🌱 &nbsp; Learning more about Full Stack Web development, Machine Learning and Artificial Intelligence.
-- ✍️ &nbsp; Freelancer and Youtube Creator
+- 💻 &nbsp; Freelancer and [Youtube](https://youtube.com/kirankumargonti) creator
 
 <h3>🛠 Tech Stack</h3>
 
@@ -28,11 +28,11 @@
 - 🛢 &nbsp; MySQL | MongoDB | Firebase
 - 🔧 &nbsp; Git | Markdown | Postman
 - 🖥 &nbsp; Photoshop | XD
+- ✍️ &nbsp; Visual studio code | Atom
 
 <br/>
 
 [![Kirankumar Gonti's Github Stats](https://github-readme-stats.vercel.app/api?username=kirankumargonti&show_icons=true&title_color=fff&icon_color=eeae00&text_color=bed2d4&bg_color=4d0050)](https://github.com/kirankumargonti)
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -43,7 +43,6 @@
 <a href="https://codepen.io/kirankumargonti"  style="margin-right: 20px;">
   <img alt="kirankumar Gonti's" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
 </a>
-
 
 <a href="https://www.linkedin.com/in/kirankumar-gonti-813870137/"  style="margin-right: 20px;">
   <img alt="kirankumar Gonti's" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -65,7 +64,6 @@
   <img alt="kirankumar Gonti's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" />
 </a>
 
-
 <a href="https://twitter.com/gontikirankumar/" style="margin-right: 20px;">
   <img alt="kirankumar Gonti's" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -73,6 +71,4 @@
 <br />
 <br />
 
-
 ⭐️ From **[Kirankumar Gonti](https://github.com/kirankumargonti)**
-
