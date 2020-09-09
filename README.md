@@ -36,7 +36,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<a href="https://kirankumargonti.ga"  style="margin-right: 20px;">
+<a href="https://kirankumargonti.ga"  style="margin-right: 20px; display:inline-block; text-decoration:none;">
   <img alt="kirankumar Gonti's" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/googlechrome.svg" />
 </a>
 
