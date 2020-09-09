@@ -36,35 +36,35 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<a href="https://kirankumargonti.ga"  style="margin-right: 20px; display:inline-block; text-decoration:none;">
+<a href="https://kirankumargonti.ga"  style="margin-right: 20px; text-decoration:none;">
   <img alt="kirankumar Gonti's" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/googlechrome.svg" />
 </a>
 
-<a href="https://codepen.io/kirankumargonti"  style="margin-right: 20px;">
+<a href="https://codepen.io/kirankumargonti"  style="margin-right: 20px; text-decoration:none;">
   <img alt="kirankumar Gonti's" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/kirankumar-gonti-813870137/"  style="margin-right: 20px;">
+<a href="https://www.linkedin.com/in/kirankumar-gonti-813870137/"  style="margin-right: 20px; text-decoration:none;">
   <img alt="kirankumar Gonti's" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/kirankumargonti"  style="margin-right: 20px;">
+<a href="https://github.com/kirankumargonti"  style="margin-right: 20px; text-decoration:none;">
   <img alt="kirankumar Gonti's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.hackerrank.com/kirankumar225rk" style="margin-right: 20px;">
+<a href="https://www.hackerrank.com/kirankumar225rk" style="margin-right: 20px; text-decoration:none;">
   <img alt="kirankumar Gonti's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://www.facebook.com/kmunna2/"  style="margin-right: 20px;">
+<a href="https://www.facebook.com/kmunna2/"  style="margin-right: 20px; text-decoration:none;">
   <img alt="kirankumar Gonti's" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/kirankumar_gonti57"  style="margin-right: 20px;">
+<a href="https://www.instagram.com/kirankumar_gonti57"  style="margin-right: 20px; text-decoration:none;">
   <img alt="kirankumar Gonti's" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
 </a>
 
-<a href="https://www.youtube.com/c/kirankumargonti"  style="margin-right: 20px;">
+<a href="https://www.youtube.com/c/kirankumargonti"  style="margin-right: 20px; text-decoration:none;">
   <img alt="kirankumar Gonti's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" />
 </a>
 
-<a href="https://twitter.com/gontikirankumar/" style="margin-right: 20px;">
+<a href="https://twitter.com/gontikirankumar/" style="margin-right: 20px; text-decoration:none;">
   <img alt="kirankumar Gonti's" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
