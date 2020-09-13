@@ -24,7 +24,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | React | Sass
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Express | React | Sass
 - 🛢 &nbsp; MySQL | MongoDB | Firebase
 - 🔧 &nbsp; Git | Markdown | Postman
 - 🖥 &nbsp; Photoshop | XD
